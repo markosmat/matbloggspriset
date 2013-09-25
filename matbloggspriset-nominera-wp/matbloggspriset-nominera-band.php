@@ -7,6 +7,7 @@ Version: 1.0
 License: GPLv2
 Author: Deluxive State / Matbloggspriset
 Author URI: http://deluxive.se
+Github: https://github.com/Deluxive/matbloggspriset/tree/master/matbloggspriset-nominera-wp
 */
 
 
@@ -35,6 +36,7 @@ function render_matbloggspriset_nominera_mig() {
 	} else {
 		$padding_top = 0;
 	}
+//	Egentligen så bör länken öppnas i samma fönster. Men målgruppen föredrar ett nytt fönster. Ändra till _self för öppna i samma fönster
 	echo "<a target='_blank' class='matbloggspriset-nominera-mig' href='".$action_url."' title='Nominera mig till Matbloggspriset Folkets val!'><img src='{$ribbon_url}' alt='Nominera mig till Matbloggspriset Folkets val' style='position: fixed; top: ".$padding_top."px; right: 0; z-index: 100000; cursor: pointer; border:none;' /></a>";
 }
 

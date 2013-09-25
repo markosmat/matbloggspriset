@@ -1,0 +1,22 @@
+ Matbloggspriset Nominera mig! 
+-------------
+    URI: http://www.matbloggspriset/labbet
+    Tags: matbloggspriset, hörnband, band, ribbon, nominera, matbloggar
+    Author: Christopher Anderton
+    Author URI: http://www.deluxive.se
+    Github: https://github.com/Deluxive/matbloggspriset/tree/master/matbloggspriset-nominera-widget
+===================
+
+### Installation ###
+
+Se instruktioner.html
+
+#### Skärmdumpar ####
+https://github.com/Deluxive/matbloggspriset/blob/master/matbloggspriset-nominera-wp/screenshot-1.png 
+https://github.com/Deluxive/matbloggspriset/blob/master/matbloggspriset-nominera-wp/screenshot-2.png
+
+
+#### Changelog ####
+= 1.0 
+- First commit
+
