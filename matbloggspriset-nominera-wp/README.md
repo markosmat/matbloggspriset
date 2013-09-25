@@ -4,7 +4,7 @@ Tags: matbloggspriset, hörnband, band, ribbon, nominera, matbloggar
 Requires at Least: 2.6.0
 Tested Up To: 3.6.1
 Stable tag: trunk
-
+===================
 == Installation ==
 
 1. Ladda ner zipfilen
@@ -18,4 +18,4 @@ Skall följa zipfilen till denna plugin.
 = 1.0 =
 * Fork från Stop Censorship Ribbon
 http://wordpress.org/plugins/stop-censorship-ribbon/
-
+===================
